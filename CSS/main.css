@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.enmedio{
+    margin-top: 10%;
+}
+
+.enmedio2{
+    margin-top: 1%;
+}
+
+.enmedio3{
+    margin-top: 2%;
+}
+
+.textoing{
+    max-width: 50%;
+}
+
+.arriba{
+    margin-top: 0.5%;
+    margin-right: 1%;
+}
+
+.color{
+    background-color: lightgray;
+    font-size: 100%;
+    border-color:darkslategray;
+}
+
+footer{
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    height: 30px;
+    width: 100%;
+    margin-bottom: 1.15%;
+}
